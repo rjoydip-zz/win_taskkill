@@ -1,1 +1,1 @@
-Deno.test("", () => {});
+Deno.test("pass", () => {});
